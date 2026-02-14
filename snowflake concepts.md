@@ -23,6 +23,21 @@ https://medium.com/hashmapinc/handling-deadlocks-in-snowflake-ca6eaedf40ae
 
 <h2>Snowflake only marks a query as eligible if there is high confidence that the query would be accelerated if QAS was enabled. Over time, Snowflake is expanding the query patterns that are eligible for acceleration. For example, formerly QAS didn’t accelerate queries with a LIMIT clause and no ORDER BY clause, but now Snowflake automatically determines whether such queries can benefit from QAS.</h2>
 
+<img width="481" height="310" alt="image" src="https://github.com/user-attachments/assets/c5d6342d-f817-4332-bb8c-77ce26a0597d" />
+
+<img width="388" height="275" alt="image" src="https://github.com/user-attachments/assets/ab167479-c265-4e6f-9920-3352a94a6df1" />
+
+<img width="401" height="277" alt="image" src="https://github.com/user-attachments/assets/2bb67bc8-c63a-4e2e-b6d4-605b4c045c3d" />
+
+<img width="356" height="323" alt="image" src="https://github.com/user-attachments/assets/1c1f2d5a-13a5-4e43-8a67-2caf27463585" />
+
+<img width="477" height="313" alt="image" src="https://github.com/user-attachments/assets/9fe9d39c-dea5-4c5b-8295-31305ca5b115" />
+
+<img width="377" height="153" alt="image" src="https://github.com/user-attachments/assets/21c5c7c9-36d1-4558-b2e6-614797b6858e" />
+
+<img width="533" height="163" alt="image" src="https://github.com/user-attachments/assets/7b23c4ca-191b-4bf0-93ee-1c4616bfec8e" />
+
+
 <h2></h2>
 
 <h2></h2>
