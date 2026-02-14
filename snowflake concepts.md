@@ -65,10 +65,28 @@ https://medium.com/hashmapinc/handling-deadlocks-in-snowflake-ca6eaedf40ae
 
 <img width="545" height="236" alt="image" src="https://github.com/user-attachments/assets/77e38f6e-1dcc-4aab-a81c-081931245ded" />
 
-<h2></h2>
+<h2>Snowsight</h2>
+Snowsight is the modern web-based user interface for Snowflake — used to work with data inside the Snowflake Data Cloud.
+
+<img width="560" height="277" alt="image" src="https://github.com/user-attachments/assets/16575031-2a6b-4132-a06c-40a9ebbef025" />
+
+<h2>Micro-partitioning is automatically performed on all Snowflake tables. Tables are transparently partitioned using the ordering of the data as it is inserted/loaded.</h2>
+
+<h2>they don’t need to be explicitly defined up-front or maintained by users.</h2>
+
+<img width="544" height="310" alt="image" src="https://github.com/user-attachments/assets/04def64f-d485-45ff-9ddd-f40f0cd6a60e" />
 
 <h2></h2>
-
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
 <h2></h2>
 
-<h2></h2>
