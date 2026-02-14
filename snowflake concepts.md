@@ -37,6 +37,33 @@ https://medium.com/hashmapinc/handling-deadlocks-in-snowflake-ca6eaedf40ae
 
 <img width="533" height="163" alt="image" src="https://github.com/user-attachments/assets/7b23c4ca-191b-4bf0-93ee-1c4616bfec8e" />
 
+<img width="621" height="155" alt="image" src="https://github.com/user-attachments/assets/ecdbb32f-0f12-46ef-a7fe-833aa08f31e9" />
+
+<img width="621" height="155" alt="image" src="https://github.com/user-attachments/assets/ea2c7bbd-b7eb-4148-acbe-c8c7414bfe37" />
+
+<img width="615" height="307" alt="image" src="https://github.com/user-attachments/assets/5b4dae21-7bd3-4c19-81e2-d483094e911d" />
+
+<img width="622" height="273" alt="image" src="https://github.com/user-attachments/assets/e9ad46d8-c291-4195-9f7a-2301d885246e" />
+
+<img width="692" height="385" alt="image" src="https://github.com/user-attachments/assets/ba185ed9-a72c-4a6c-84cf-a468b92ae8c4" />
+
+<img width="451" height="328" alt="image" src="https://github.com/user-attachments/assets/e2669e32-b076-4fbb-86b3-f229ea5f0c54" />
+
+<img width="659" height="287" alt="image" src="https://github.com/user-attachments/assets/78446223-2341-4933-b83c-f7d94fe3f199" />
+
+<img width="766" height="175" alt="image" src="https://github.com/user-attachments/assets/cf25f4bb-eff1-493a-9457-d0be4bf4b6fc" />
+
+<img width="548" height="196" alt="image" src="https://github.com/user-attachments/assets/011074a9-41e4-4658-b9bf-c0d72fbe6d46" />
+
+<img width="537" height="299" alt="image" src="https://github.com/user-attachments/assets/f05c42db-bc06-4658-8956-7274350ef7e5" />
+
+<img width="499" height="277" alt="image" src="https://github.com/user-attachments/assets/740b0170-b3c6-4070-86cb-384212098dba" />
+
+<img width="530" height="356" alt="image" src="https://github.com/user-attachments/assets/c0e58330-f03f-49c1-b1a7-b8b5272a6ed6" />
+
+<img width="547" height="341" alt="image" src="https://github.com/user-attachments/assets/61f85164-518d-4482-b392-366b00b27a7c" />
+
+<img width="545" height="236" alt="image" src="https://github.com/user-attachments/assets/77e38f6e-1dcc-4aab-a81c-081931245ded" />
 
 <h2></h2>
 
