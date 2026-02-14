@@ -76,17 +76,5 @@ Snowsight is the modern web-based user interface for Snowflake — used to work 
 
 <img width="544" height="310" alt="image" src="https://github.com/user-attachments/assets/04def64f-d485-45ff-9ddd-f40f0cd6a60e" />
 
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
+
 
