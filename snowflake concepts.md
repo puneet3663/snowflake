@@ -76,5 +76,17 @@ Snowsight is the modern web-based user interface for Snowflake — used to work 
 
 <img width="544" height="310" alt="image" src="https://github.com/user-attachments/assets/04def64f-d485-45ff-9ddd-f40f0cd6a60e" />
 
+<img width="539" height="125" alt="image" src="https://github.com/user-attachments/assets/436d8253-6e02-457c-a3cb-7575bcea5640" />
+
+<img width="542" height="110" alt="image" src="https://github.com/user-attachments/assets/66ced1c5-717c-4b92-8c1a-60564d7083f5" />
+
+<img width="600" height="204" alt="image" src="https://github.com/user-attachments/assets/8b6b041e-f597-45af-884c-d61f7f5bfb59" />
+
+https://docs.snowflake.com/en/user-guide/tables-clustering-micropartitions
+
+<img width="1377" height="734" alt="image" src="https://github.com/user-attachments/assets/61260573-ef78-4894-adef-e26de003a3ba" />
+
+<img width="581" height="274" alt="image" src="https://github.com/user-attachments/assets/625c6557-2f6d-4ab4-8fe8-8828ad545ac1" />
 
 
+<img width="710" height="153" alt="image" src="https://github.com/user-attachments/assets/e3354a34-21f0-414b-97bc-fd73a3db41de" />
