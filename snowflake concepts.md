@@ -103,3 +103,7 @@ https://docs.snowflake.com/en/user-guide/tables-clustering-micropartitions
 <img width="560" height="144" alt="image" src="https://github.com/user-attachments/assets/b242eaad-a1fa-4031-b5c6-cb825a9976f6" />
 
 <img width="542" height="340" alt="image" src="https://github.com/user-attachments/assets/d9270551-9f35-4478-b3a8-2454de1d2728" />
+
+<img width="596" height="384" alt="image" src="https://github.com/user-attachments/assets/c77f0b07-320d-4976-9a4e-0e989ae4a3df" />
+
+<img width="623" height="284" alt="image" src="https://github.com/user-attachments/assets/4e471da1-0cc0-4d6c-88e7-ede07f0f5e36" />
