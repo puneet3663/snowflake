@@ -71,3 +71,12 @@
 <img width="707" height="281" alt="image" src="https://github.com/user-attachments/assets/e583b022-055a-4a15-87f6-e7b59849e162" />
 
 <img width="650" height="295" alt="image" src="https://github.com/user-attachments/assets/76906540-814d-441a-9495-31a6d2fb4bdc" />
+
+<h1>hybrid tables</h1>
+<img width="641" height="166" alt="image" src="https://github.com/user-attachments/assets/03e2dc9b-901c-496c-8acf-71fe3777a8a1" />
+
+<img width="583" height="167" alt="image" src="https://github.com/user-attachments/assets/c255093a-04e8-4045-bdd8-f28bb0b545e6" />
+
+<img width="620" height="217" alt="image" src="https://github.com/user-attachments/assets/cb5cd7b0-275e-482a-a0fc-61b7f52a077b" />
+
+<h1>Hybrid tables in Snowflake are designed for low-latency transactional workloads, enforcing primary keys and optimizing row-based access patterns, unlike standard columnar tables that are optimized for analytical scans</h1>
