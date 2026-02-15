@@ -35,4 +35,26 @@
 <h1>iceberg tables</h1>
 <img width="614" height="206" alt="image" src="https://github.com/user-attachments/assets/27ce0377-9c6d-4b6c-8658-84ec557eb5bc" />
 
+<img width="540" height="239" alt="image" src="https://github.com/user-attachments/assets/e59a7ffb-bec7-48a5-b0c1-3f30ed163ec5" />
 
+<img width="626" height="235" alt="image" src="https://github.com/user-attachments/assets/7ace0145-46a8-4eff-a43d-54fcfa444ef8" />
+
+<img width="572" height="68" alt="image" src="https://github.com/user-attachments/assets/798816a4-b5db-40b0-8778-4d5e5678da56" />
+
+<img width="668" height="333" alt="image" src="https://github.com/user-attachments/assets/1dacc46e-bb8b-4573-97b4-63f59a763a27" />
+
+<img width="675" height="323" alt="image" src="https://github.com/user-attachments/assets/8ee1c459-5f9b-4464-a180-7447dc46251c" />
+
+<img width="503" height="158" alt="image" src="https://github.com/user-attachments/assets/7ad42a25-d66a-47dc-99ee-0710d96cfcef" />
+
+<img width="554" height="220" alt="image" src="https://github.com/user-attachments/assets/15550daa-0fed-454c-aaca-deace61c2dcc" />
+
+<img width="656" height="274" alt="image" src="https://github.com/user-attachments/assets/6d98e22d-422b-4433-bc60-50391a27bb9f" />
+
+<img width="419" height="151" alt="image" src="https://github.com/user-attachments/assets/4bdd8ca6-2b50-4257-a74e-83465369d525" />
+
+<img width="431" height="185" alt="image" src="https://github.com/user-attachments/assets/436c4b8d-b48b-4752-a394-914aefb7d854" />
+
+<img width="568" height="170" alt="image" src="https://github.com/user-attachments/assets/c7176c88-7558-4cb0-a774-4e371bfc98fa" />
+
+<img width="670" height="176" alt="image" src="https://github.com/user-attachments/assets/5ce315e8-2003-4007-9948-72ca4bd23d0f" />
