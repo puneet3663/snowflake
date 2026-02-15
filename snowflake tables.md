@@ -58,3 +58,16 @@
 <img width="568" height="170" alt="image" src="https://github.com/user-attachments/assets/c7176c88-7558-4cb0-a774-4e371bfc98fa" />
 
 <img width="670" height="176" alt="image" src="https://github.com/user-attachments/assets/5ce315e8-2003-4007-9948-72ca4bd23d0f" />
+
+<h1>3 Ways to Refresh External Tables</h1>
+<img width="299" height="83" alt="image" src="https://github.com/user-attachments/assets/992d744e-e78e-4241-a7d8-9b6320310a5c" />
+<img width="292" height="70" alt="image" src="https://github.com/user-attachments/assets/3558d954-7db3-4394-9949-462099fc3222" />
+<img width="250" height="88" alt="image" src="https://github.com/user-attachments/assets/64cf534f-2a4d-4336-8186-0af25a418e7b" />
+
+<h1>Iceberg tables do not require directory-level refresh like external tables because Iceberg maintains snapshot-based metadata. Snowflake reads the latest metadata file to determine active data files.</h1>
+
+<img width="648" height="326" alt="image" src="https://github.com/user-attachments/assets/46aa41c2-f315-4637-a278-fe7904fe49ba" />
+
+<img width="707" height="281" alt="image" src="https://github.com/user-attachments/assets/e583b022-055a-4a15-87f6-e7b59849e162" />
+
+<img width="650" height="295" alt="image" src="https://github.com/user-attachments/assets/76906540-814d-441a-9495-31a6d2fb4bdc" />
