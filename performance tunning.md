@@ -28,8 +28,11 @@ full table scan below and query ID of it
 
 **above shows that query spent more time in fetching the data rather than doing actual processing**
 
+<img width="943" height="365" alt="image" src="https://github.com/user-attachments/assets/82baa33d-f279-46e5-bd22-ee1b150c7bb2" />
 
+**above is backbone of query tunning**
 
+<img width="215" height="404" alt="image" src="https://github.com/user-attachments/assets/f93def74-0d89-4e4b-aaca-d1e84e8a2281" />
 
-
+<img width="698" height="345" alt="image" src="https://github.com/user-attachments/assets/21397213-93e3-422c-9cc8-41afab9e578f" />
 
