@@ -85,3 +85,5 @@ full table scan below and query ID of it
 <img width="786" height="340" alt="image" src="https://github.com/user-attachments/assets/27c774fb-2343-40b0-a3dc-7f8cbafde065" />
 
 <img width="794" height="196" alt="image" src="https://github.com/user-attachments/assets/f2ed814f-35fc-478e-94b9-7ebd1373e653" />
+
+<img width="694" height="265" alt="image" src="https://github.com/user-attachments/assets/94b7dd33-acb2-4fa0-9f0e-2eda76123043" />
