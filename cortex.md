@@ -1,3 +1,6 @@
+<img width="523" height="349" alt="image" src="https://github.com/user-attachments/assets/a053303e-2ab1-4274-99fb-1af0096cdfe8" />
+
+
 name: supply_chain_model
 
 tables:
