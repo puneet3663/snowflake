@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=soDqgBRKi1o&list=PLiFErliE7g4XLTRzStzh2Eh2voqDkf
 
 Cortex definition: Augment BI with AI
 
+At runtime, Cortex Analyst selects the best combination of models to ensure the highest accuracy and performance for each query
+
+As LLMs evolve, Snowflake may add more models to the mix to further improve performance and accuracy.
+
+<img width="538" height="128" alt="image" src="https://github.com/user-attachments/assets/9e7a68f4-8d10-4b78-9bf0-da06302bc98b" />
+
+<img width="515" height="58" alt="image" src="https://github.com/user-attachments/assets/e9de1568-708c-46a6-8e05-108c93c213ca" />
+
+<img width="520" height="109" alt="image" src="https://github.com/user-attachments/assets/84c97d1c-0bba-4652-b787-595a937b9921" />
+
+<img width="524" height="152" alt="image" src="https://github.com/user-attachments/assets/5e6b9b86-0fa8-43ae-8d43-bb0afe4b955b" />
+
+
 <img width="637" height="346" alt="image" src="https://github.com/user-attachments/assets/f3fb0df3-1141-44d8-b172-bed7e275272b" />
 
 
