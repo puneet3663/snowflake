@@ -1,3 +1,7 @@
+**semantic-view-vs-semantic-model**
+
+https://medium.com/@ppritesh/%EF%B8%8F-snowflake-cortex-analyst-semantic-view-vs-semantic-model-whats-the-difference-and-which-517f04549b65
+
 https://www.youtube.com/watch?v=soDqgBRKi1o&list=PLiFErliE7g4XLTRzStzh2Eh2voqDkfuIq&index=7
 
 Cortex definition: Augment BI with AI
@@ -16,6 +20,14 @@ As LLMs evolve, Snowflake may add more models to the mix to further improve perf
 
 
 <img width="637" height="346" alt="image" src="https://github.com/user-attachments/assets/f3fb0df3-1141-44d8-b172-bed7e275272b" />
+
+<img width="533" height="222" alt="image" src="https://github.com/user-attachments/assets/29262d3a-6edb-425b-85e5-8cd13a556d4e" />
+
+<img width="544" height="196" alt="image" src="https://github.com/user-attachments/assets/b60c23d8-5fe6-4aa5-b200-00ae51b93114" />
+
+<img width="545" height="217" alt="image" src="https://github.com/user-attachments/assets/524918aa-4b39-4fc5-855e-4d122d9cfe68" />
+
+<img width="544" height="116" alt="image" src="https://github.com/user-attachments/assets/a63bd2c7-f84c-4f70-a1cd-f0066e02f13d" />
 
 
 
