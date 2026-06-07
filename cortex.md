@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=soDqgBRKi1o&list=PLiFErliE7g4XLTRzStzh2Eh2voqDkfuIq&index=7
+
+
 <img width="637" height="346" alt="image" src="https://github.com/user-attachments/assets/f3fb0df3-1141-44d8-b172-bed7e275272b" />
 
 
