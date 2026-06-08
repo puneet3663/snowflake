@@ -2,6 +2,19 @@
 
 https://medium.com/@ppritesh/%EF%B8%8F-snowflake-cortex-analyst-semantic-view-vs-semantic-model-whats-the-difference-and-which-517f04549b65
 
+<img width="638" height="355" alt="image" src="https://github.com/user-attachments/assets/324b050a-fe1a-403d-9ac5-6a4b43f0d646" />
+
+<img width="546" height="158" alt="image" src="https://github.com/user-attachments/assets/f8ad1ca7-141b-4adf-874b-65b9e7611e7c" />
+
+<img width="631" height="243" alt="image" src="https://github.com/user-attachments/assets/c1420d94-9534-4df4-b44a-8904cce9c083" />
+
+<img width="660" height="334" alt="image" src="https://github.com/user-attachments/assets/b466dcc1-ee81-450a-a6a4-7f6a7862caf7" />
+
+<img width="510" height="271" alt="image" src="https://github.com/user-attachments/assets/d3aa3e25-6b54-4300-8640-6fc788a1030d" />
+
+<img width="469" height="112" alt="image" src="https://github.com/user-attachments/assets/4625bae8-e15e-471f-a0d5-be5c69780e3e" />
+
+
 https://www.youtube.com/watch?v=soDqgBRKi1o&list=PLiFErliE7g4XLTRzStzh2Eh2voqDkfuIq&index=7
 
 Cortex definition: Augment BI with AI
