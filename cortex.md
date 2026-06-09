@@ -1,5 +1,8 @@
 **semantic-view-vs-semantic-model**
 
+
+<img width="955" height="472" alt="image" src="https://github.com/user-attachments/assets/01087112-b958-4742-8eeb-e1d20eb6618d" />
+
 https://medium.com/@ppritesh/%EF%B8%8F-snowflake-cortex-analyst-semantic-view-vs-semantic-model-whats-the-difference-and-which-517f04549b65
 
 <img width="638" height="355" alt="image" src="https://github.com/user-attachments/assets/324b050a-fe1a-403d-9ac5-6a4b43f0d646" />
