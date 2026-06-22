@@ -1,5 +1,27 @@
 <img width="365" height="226" alt="image" src="https://github.com/user-attachments/assets/6cac76a4-4f26-41bb-b724-135e80dbea4e" />
 
+<img width="1215" height="574" alt="image" src="https://github.com/user-attachments/assets/8c03203e-7eca-4f85-a2ac-c7a72204b62e" />
+
+<img width="1913" height="465" alt="image" src="https://github.com/user-attachments/assets/dd5c3b10-f959-48e9-883d-36e33e898f90" />
+
+<img width="791" height="522" alt="image" src="https://github.com/user-attachments/assets/426fbe16-ae5f-4445-bf6c-1450bafbe3f5" />
+
+<img width="791" height="567" alt="image" src="https://github.com/user-attachments/assets/82f36c94-9938-4353-877a-bae3d4a1e680" />
+
+<img width="740" height="531" alt="image" src="https://github.com/user-attachments/assets/faeacb08-203c-4aa9-8f7c-3a5e6e2330e6" />
+
+<img width="1082" height="595" alt="image" src="https://github.com/user-attachments/assets/18c036e4-c5b3-4d96-a550-01e7a1686812" />
+
+<img width="1274" height="643" alt="image" src="https://github.com/user-attachments/assets/23eeda25-6916-4801-b921-846413cf5955" />
+
+<img width="1274" height="624" alt="image" src="https://github.com/user-attachments/assets/3784f463-bf3a-449e-adfe-ee879bd91e13" />
+
+<img width="1279" height="681" alt="image" src="https://github.com/user-attachments/assets/cd13826c-1a54-4b2c-9d7a-aa8159b4a64b" />
+
+<img width="1267" height="685" alt="image" src="https://github.com/user-attachments/assets/77c19cbc-e8e9-4049-9efe-940ccb17ffc8" />
+
+
+
 Openflow Postgres CDC → Snowflake: Troubleshooting Summary & Fix Documentation
 Problem
 Snowflake Openflow pipeline (Snapshot Load + Incremental Load) showed Out: 0 bytes everywhere despite no visible processor errors — data wasn't reaching the target Snowflake tables, even though source/target connections were reportedly configured.
